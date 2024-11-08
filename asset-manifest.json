@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Numeric_Calculator-/static/css/main.1fef446d.css",
-    "main.js": "/Numeric_Calculator-/static/js/main.ce1dcfa4.js",
-    "static/js/488.00b4bc35.chunk.js": "/Numeric_Calculator-/static/js/488.00b4bc35.chunk.js",
-    "index.html": "/Numeric_Calculator-/index.html",
-    "main.1fef446d.css.map": "/Numeric_Calculator-/static/css/main.1fef446d.css.map",
-    "main.ce1dcfa4.js.map": "/Numeric_Calculator-/static/js/main.ce1dcfa4.js.map",
-    "488.00b4bc35.chunk.js.map": "/Numeric_Calculator-/static/js/488.00b4bc35.chunk.js.map"
+    "main.css": "/Numeric_Calculator/static/css/main.1fef446d.css",
+    "main.js": "/Numeric_Calculator/static/js/main.95a5ef84.js",
+    "static/js/488.00b4bc35.chunk.js": "/Numeric_Calculator/static/js/488.00b4bc35.chunk.js",
+    "index.html": "/Numeric_Calculator/index.html",
+    "main.1fef446d.css.map": "/Numeric_Calculator/static/css/main.1fef446d.css.map",
+    "main.95a5ef84.js.map": "/Numeric_Calculator/static/js/main.95a5ef84.js.map",
+    "488.00b4bc35.chunk.js.map": "/Numeric_Calculator/static/js/488.00b4bc35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fef446d.css",
-    "static/js/main.ce1dcfa4.js"
+    "static/js/main.95a5ef84.js"
   ]
 }
