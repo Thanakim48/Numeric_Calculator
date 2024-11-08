@@ -14,8 +14,8 @@ import Matrixinversion from "./pages_Linear/Matrix_Inversion";
 import NewtonInterpolation from "./Interpolation/NewtonInter_pages";
 import Newtonregessionpages from "./Input_regression/Newtonregp";
 // import Navbar and Footer if they are needed in all pages
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+//import Navbar from "./components/Navbar";
+//import Footer from "./components/Footer";
 
 export default function App() {
     return (
